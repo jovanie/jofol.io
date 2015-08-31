@@ -1,0 +1,137 @@
+* {
+
+}
+
+a {
+	text-decoration: none;
+	color:black;
+}
+
+body {
+	font-family: Born;
+	background: #efefef;
+	width:auto;
+	margin:0;
+	padding:0;
+
+
+}
+
+.headcontain {
+	height:34em;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url('../../hosted/img/mlback.png');
+	background-size: cover;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-clip: content-box;
+}
+
+header {
+	font-family: Simplifica;
+	font-size: 1.8em;
+	width:100%;
+	position: absolute;
+	top:30%;
+  	left:50%;
+	-ms-transform:translate(-50%,-50%);
+  	-webkit-transform:translate(-50%,-50%);
+  	transform:translate(-50%,-50%);
+}
+.headcontain h2 {
+}
+
+.container {
+	width:80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding-bottom:5%;
+
+}
+
+#head {
+	font-size:4em;
+	font-family: ;
+}
+
+#subtitle {
+	margin-top:-3em;
+	color:white;
+	font-size: 0.9em;
+	font-family:;
+}
+section {
+	width:95%;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:1.5%;
+	background-color:white;
+}
+#sites{
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+	width:100%;
+	margin:0;
+	padding:0;
+}
+
+#sites h3 {
+	padding-left:4em;
+}
+#sites .imgflow {
+	height:19em;
+	overflow:hidden;
+}
+#sites .imgflow img {
+	width:100%;
+}
+
+#about {
+	text-align: left;
+	width:95%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+
+#abouttab {
+	width:100%;
+	text-align: center;
+}
+
+.tableft{
+	width:50%;
+	height:10em;
+}
+
+.tabright {
+	width:50%;
+	height:10em;
+}
+
+.tableft p, .tabright p{
+	text-align: left;
+}
+
+#contact {
+
+}
+#footer {
+	background-color:#efefef;
+	margin-top:-2.5%;
+	padding-left: 2.5%;
+	padding-right: 2.5%;
+}
+footer a{color:white;}
+
+footer {
+	text-align:center;
+	left:0;
+	position: relative;
+	bottom:0;
+	width:100%;
+	background-color:black;
+	color:white;
+	font-size:0.9em;
+}

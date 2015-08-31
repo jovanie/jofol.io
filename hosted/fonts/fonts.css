@@ -1,0 +1,20 @@
+@font-face {
+	font-family:Simplifica;
+	src: url("SIMPLIFICA/SIMPLIFICA Typeface.ttf") format("truetype");
+	font-weight:;
+	font-style:regular;
+}
+
+@font-face {
+	font-family:Passion-One;
+	src: url("passion-one/PassionOne-Regular.otf") format("opentype");
+	font-weight:;
+	font-style:regular;
+}
+
+@font-face {
+	font-family:Born;
+	src: url("Born/Born.otf") format("opentype");
+	font-weight:;
+	font-style:regular;
+}
