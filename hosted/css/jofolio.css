@@ -114,6 +114,23 @@ section {
 	text-align: left;
 }
 
+.tabimg {
+	width:100%;
+	height:10em;
+	overflow:hidden;
+
+}
+
+.tabimg img {
+	width:100%;
+}
+
+#alma img{
+	margin-top:-25%;
+}
+#chinatown {
+
+}
 #contact {
 
 }
