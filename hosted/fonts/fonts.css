@@ -1,20 +1,14 @@
-@font-face {
-	font-family:Simplifica;
-	src: url("SIMPLIFICA/SIMPLIFICA Typeface.ttf") format("truetype");
-	font-weight:;
-	font-style:regular;
+@font-face { 
+	font-family: 'simplifica';
+	src:url('hosted/fonts/simplifica.ttf')  format('truetype');
 }
 
-@font-face {
-	font-family:Passion-One;
-	src: url("passion-one/PassionOne-Regular.otf") format("opentype");
-	font-weight:;
-	font-style:regular;
+@font-face { 
+	font-family: 'passionone';
+	src:url('hosted/fonts/passionone.otf')  format('opentype');
 }
 
-@font-face {
-	font-family:Born;
-	src: url("Born/Born.otf") format("opentype");
-	font-weight:;
-	font-style:regular;
+@font-face { 
+	font-family: 'born';
+	src:url('hosted/fonts/born.otf')  format('opentype');
 }
