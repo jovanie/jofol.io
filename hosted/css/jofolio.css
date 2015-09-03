@@ -4,7 +4,7 @@ body {
 	padding:0 0;
 	background-color: #EC583A;
 	overflow: hidden;
-	min-width: 600px;
+	min-width: 400px;
 }
 .container {
 	margin-top:0px;
@@ -76,7 +76,7 @@ nav {height: 90px;
 	text-align: center;
 	position: fixed;
 	top: 50%;
-	left: 50%;
+	left: 40%;
 	/* bring your own prefixes */
 	transform: translate(-16%, -50%);
 }
@@ -86,11 +86,11 @@ nav {height: 90px;
 	top: 50%;
 	left: 50%;
 	/* bring your own prefixes */
-	transform: translate(-70%, -40%);
+	transform: translate(-45%, -40%);
 	vertical-align: middle;
 	text-align: left;
 	float:left;
-	width:30%;
+	width:40%;
 	text-decoration: none;
 	list-style: none;
 	line-height: 00%;
@@ -108,7 +108,9 @@ nav {height: 90px;
 }
 
 @media (max-width: 1000px) and (min-width:800px) {
-
+	#logo {
+		left:40%;
+	}
 	#logo a img {
 		width:250px;
 	}
@@ -127,6 +129,9 @@ nav {height: 90px;
 
 @media (max-width: 800px) and (min-width:600px) {
 
+	#logo {
+		left:30%;
+	}
 	#logo a img {
 		width:175px;
 	}
@@ -144,6 +149,9 @@ nav {height: 90px;
 }
 
 @media (max-width: 600px) and (min-width:400px) {
+	#logo {
+		left:20%;
+	}
 
 	#logo a img {
 		width:150px;
