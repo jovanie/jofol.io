@@ -76,7 +76,7 @@ nav {height: 90px;
 	text-align: center;
 	position: fixed;
 	top: 50%;
-	left: 40%;
+	left: 35%;
 	/* bring your own prefixes */
 	transform: translate(-16%, -50%);
 }
@@ -109,7 +109,7 @@ nav {height: 90px;
 
 @media (max-width: 1000px) and (min-width:800px) {
 	#logo {
-		left:40%;
+		left:30%;
 	}
 	#logo a img {
 		width:250px;
@@ -130,7 +130,7 @@ nav {height: 90px;
 @media (max-width: 800px) and (min-width:600px) {
 
 	#logo {
-		left:30%;
+		left:25%;
 	}
 	#logo a img {
 		width:175px;
