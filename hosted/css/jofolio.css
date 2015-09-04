@@ -11,7 +11,10 @@ body {
 	height:100%;
 	width:100%;
 }
-nav {height: 90px;
+nav {
+	margin:0;
+	padding:0;
+	height: 90px;
 	width: 100%;}
 
 #navback {
